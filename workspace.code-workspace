@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../../Downloads/MyResume"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website bootstrap"
+	}
+}
